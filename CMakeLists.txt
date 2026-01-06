@@ -1,1 +1,0 @@
-project(can_multitool)
